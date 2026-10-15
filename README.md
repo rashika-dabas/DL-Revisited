@@ -1,6 +1,6 @@
 # DL-Revisited
 
-#### Neither framework is universally "better," as the choice depends entirely on your goals
+#### Neither framework is universally "better," as the choice depends entirely on your goals.
 
 1. PyTorch dominates AI research and rapid prototyping, while TensorFlow excels in enterprise-scale production and edge deployment.
 
